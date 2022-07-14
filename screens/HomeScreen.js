@@ -8,6 +8,8 @@ const HomeScreen = () => {
       <Text className='text-red-900'>HomeScreen</Text>
       <Text className='text-red-900'>HomeScreen</Text>
       <Text className='text-red-900'>HomeScreen</Text>
+      <Text className='text-red-900'>HomeScreen</Text>
+      <Text className='text-red-900'>HomeScreen</Text>
     </View>
   )
 }
