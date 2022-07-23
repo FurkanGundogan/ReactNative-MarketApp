@@ -12,7 +12,7 @@ import PreparingOrderScreen from "./screens/PreparingOrderScreen";
 import DeliveryScreen from "./screens/DeliveryScreen";
 
 const Stack = createNativeStackNavigator();
-
+// 22:22 23.07.2022 v.0
 export default function App() {
   return (
     <NavigationContainer>
